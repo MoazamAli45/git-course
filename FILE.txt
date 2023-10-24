@@ -3,5 +3,6 @@ This is my check file
 
 hello world
 
-Checking1
 
+Checking2
+>>>>>>> feature2
