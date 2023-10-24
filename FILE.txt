@@ -2,7 +2,7 @@ This is my check file
 
 
 hello world
-
+Check
 
 Checking2
->>>>>>> feature2
+
